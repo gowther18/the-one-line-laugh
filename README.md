@@ -1,6 +1,8 @@
 # the-one-line-laugh
 
 [![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/gowther18/the-one-line-laugh/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/gowther18/the-one-line-laugh/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
 One funny line, 122 characters: the houseplants kept dying, so plastic ones replaced them — and the guilt survived the switch to plants that were never alive. A house judge compares the lines two at a time; the biggest laughs take the $5 pool (1st $2, 2nd $2, 3rd $1). This program writes that one line to /output/entry.txt.
 
